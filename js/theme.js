@@ -180,3 +180,6 @@
 
 
 })(jQuery); // End of use strict
+
+$('.eapps-instagram-feed-title').html("salam")
+
