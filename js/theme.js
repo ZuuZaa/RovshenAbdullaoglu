@@ -21,6 +21,7 @@
   $('.home-slider-loop-false').owlCarousel({
     loop: true,
     autoplay: true,
+    autoplayTimeout:10000, 
     margin: 0,
     animateOut: 'fadeOut',
     animateIn: 'fadeIn',
@@ -181,5 +182,4 @@
 
 })(jQuery); // End of use strict
 
-$('.eapps-instagram-feed-title').html("salam")
 

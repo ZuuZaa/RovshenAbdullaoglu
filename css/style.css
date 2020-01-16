@@ -998,7 +998,7 @@ CONTACT PAGE
 }
 
 .page {
-  padding: 30px 0;
+  padding: 35px 0;
   background-color: #fff;
   border-radius: 5px;
 }
@@ -1051,13 +1051,7 @@ CONTACT PAGE
   margin-top: -5%;
   margin-right: -14%;
 }
-/* #hover-item {
-  height: 370px;
+.eapps-instagram-feed-title{
+    padding: 10%;
+    font-size: 1.2rem !important
 }
-#other-book {
-  height: 330px;
-} */
-  /*# sourceMappingURL=maps/style.css.map */
-  .eapps-instagram-feed-title{
-    font-size: 1.5rem !important
-  }
